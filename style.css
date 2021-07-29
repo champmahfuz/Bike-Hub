@@ -1,0 +1,54 @@
+/* google fonts */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+*{
+    margin-top: 0;
+    overflow-x: hidden;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* color */
+.blue-green{
+    background-color: #264653;
+}
+.btn-orange{
+    background-color: #E76F51;
+}
+.orange{
+    color: #E76F51;
+}
+.fetured{
+  color:  #0A0826;
+}
+
+.gray{
+   color: #E0E0E0;
+}
+/* Fetured Bikes */
+#feture .img:nth-child(1){
+    filter: grayscale(100%);
+}
+#feture .img:nth-child(3){
+    filter: grayscale(100%);
+}
+
+/* download our app starts*/
+
+.section-app {
+    background: #264653;
+  }
+  
+
+  /* subscribe starts */
+  .stay-btn-buy-now{
+   background-color: #E76F51;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+
+}
+
+/* subscribe ends */
